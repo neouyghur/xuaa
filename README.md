@@ -16,7 +16,7 @@ The official versions of the package is released on [CTAN](https://ctan.org/pkg/
 The following example illustrates how the package can be used.
 ````tex
 \documentclass{article}
-\usepackage{xepersian}
+\usepackage{xuaa}
 \settextfont{<fontname>}
 \begin{document}
 ...
