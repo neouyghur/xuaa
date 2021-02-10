@@ -3,9 +3,9 @@ The `xuaa` package is a fork of xpersian. It aims to provides a convenient inter
 Uyghur Arabic Alhapbet and English documents with LaTeX, using the XeTeX engine. It is under developing.
 
 # TODO List
-[] Change persian terms to Uyghur terms
-[] Numbers shoule be kept same.
-[] other unknown problems
+- [] Change persian terms to Uyghur terms
+- [] Numbers shoule be kept same.
+- [] other unknown problems
 
 The package includes adaptations for use with many other commonly-used 
 packages.
