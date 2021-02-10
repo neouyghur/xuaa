@@ -10,7 +10,7 @@ Uyghur Arabic Alhapbet and English documents with LaTeX, using the XeTeX engine.
 The package includes adaptations for use with many other commonly-used 
 packages.
 
-The official versions of the package is released on [CTAN](https://ctan.org/pkg/xepersian).
+In future, we will add its official versions of the package is released on [CTAN](https://ctan.org/pkg/xuaa). Any contributions welcome.
 
 ## Using the Package
 The following example illustrates how the package can be used.
